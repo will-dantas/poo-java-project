@@ -6,13 +6,13 @@ import br.com.challenge.domain.Mentoring;
 public class Main {
     public static void main(String[] args) {
         Courses firstCourse = new Courses();
-        
+
         firstCourse.setTitle("Curso Java");
         firstCourse.setDescription("Curso de Java");
         firstCourse.setWorkload(8);
 
         Courses secondCourse = new Courses();
-        
+
         secondCourse.setTitle("Curso Java 2");
         secondCourse.setDescription("Curso de Java 2");
         secondCourse.setWorkload(8);
