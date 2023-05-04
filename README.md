@@ -1,5 +1,3 @@
-<h1> Desafio: Aprenda na Prática Programação Orientada a Objetos</h1>
-
 O objetivo principal do projeto é colocar em prática umas das principais ferramentas da OO: <strong>ABSTRAÇÃO, ENCAPSULAMENTO, HERANÇA E POLIMORFISMO</strong>, em linguagem Java.
 
 
